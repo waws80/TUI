@@ -1,0 +1,20 @@
+/**
+ 布局样式
+ */
+*{
+    margin: 0;
+    padding: 0;
+}
+@font-face
+{
+    font-family: cons;
+    src: url("../font/TerminusBold.ttf");
+}
+.RelativeLayout{
+    width: 100%;
+    background-color: #EEEEEE;
+    position: relative;
+    font-size: 20px;
+    font-family: cons, serif;
+    line-height: 26px;
+}
